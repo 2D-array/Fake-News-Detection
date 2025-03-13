@@ -1,4 +1,4 @@
-Here's a cleaned-up and corrected version of your README:
+![image](https://github.com/user-attachments/assets/034adc5b-0022-4b1c-88a1-4db39622411a)Here's a cleaned-up and corrected version of your README:
 
 ---
 
@@ -6,7 +6,8 @@ Here's a cleaned-up and corrected version of your README:
 
 An interactive web app that detects whether a news article is **Fake** or **Real** using an ensemble of machine learning models. Built with **Streamlit**, it features real-time predictions, confidence scores, and visualized model votes.
 
-![Demo Screenshot](https://via.placeholder.com/800x400.png?text=Fake+News+Detection+UI)  
+![image](https://github.com/user-attachments/assets/497ff4db-7f78-44f4-a2a9-8ca8acbb1308)
+
 *Replace this with an actual screenshot of your app.*
 
 ---
