@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/034adc5b-0022-4b1c-88a1-4db39622411a)Here's a cleaned-up and corrected version of your README:
+
 
 ---
 
